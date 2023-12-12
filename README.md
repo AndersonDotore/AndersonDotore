@@ -1,10 +1,10 @@
 ## Hello! I'm Anderson Dotore, software developer.👋
 
 
-- 🔭 &nbsp; Working as a jr Integration Architect
+- 🔭 &nbsp; Working as a jr Developer
 - 🎓 &nbsp; Bachelor of Information Technology
-- 🌱 &nbsp; Learning Flutter
-- 🔎 &nbsp; Looking for work as flutter mobile developer
+- 🌱 &nbsp; Learning C# /* .NET
+- 🔎 &nbsp; Looking for work as jr Backend .NET
 
                  
 
